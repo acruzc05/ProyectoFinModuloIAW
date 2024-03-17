@@ -20,6 +20,7 @@
 - **Index:** Fichero que controla la página y al que se le insertan los controladores con sus funciones.
   
 ## Funcionalidades
+- Listado de productos
 - Ver un producto (Mostrar una descripción de un producto).
 - Inicio de sesión (admin y usuario). Se deben crear los usuarios directamente en la BBDD.
 - Dar de alta nuevo producto (solo administrador).
